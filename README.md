@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergeyKhakhulin
-- 👀 I’m interested in software development and mobile apps development
+- 👀 I’m specialized in web apps development, software development, and mobile apps development
 - 🌱 I’m currently learning Java for Android apps
 - 💞️ I’m looking to collaborate on desktop applications development
 - 📫 How to reach me - visit https://khakhulin.com
